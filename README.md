@@ -1,21 +1,21 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
+    <img style="width: 250px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
     <h3>
         Hi, I'm limu 😎<br />
         Front-End Developer.
     </h3>
-    <h3>
+    <h4>
         ✨ How to reach me...
-    </h3>
+    </h4>
     <br />
-    <ul align="left">
+    <ul style="text-decoration: none">
         <li>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></li>
         <li>Phone: +82)10-2605-9213</li>
     </ul>
     <br />
-    <h3>
+    <h4>
         ✨ Skills
-    </h3>
+    </h4>
     <p>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=ffffff" />&nbsp
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff" />&nbsp
@@ -30,7 +30,7 @@
     </p>
     <br />
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limunosekai&layout=compact)
-    <bt />
+    <br />
     ![Github stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
 
 </div>

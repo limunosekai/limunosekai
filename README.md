@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width:150px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
+    <img width="150px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
     <h3>
         Hi, I'm limu 😎<br />
         Front-End Developer.

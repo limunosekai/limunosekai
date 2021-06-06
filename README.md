@@ -9,7 +9,6 @@
     </h4>
     <p>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></p>
     <p>Phone: +82)10-2605-9213</p>
-    <br />
     <h4>
         ✨ Skills
     </h4>

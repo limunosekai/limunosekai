@@ -7,11 +7,10 @@
     <h4>
         ✨ How to reach me...
     </h4>
-    <br />
-    <ul style="width: 240px; margin: 0 auto; text-align: left">
-        <li>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></li>
-        <li>Phone: +82)10-2605-9213</li>
-    </ul>
+
+    <span>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></span>
+    <span>Phone: +82)10-2605-9213</span>
+
     <br />
     <h4>
         ✨ Skills

@@ -7,10 +7,8 @@
     <h4>
         ✨ How to reach me...
     </h4>
-
-    <span>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></span>
-    <span>Phone: +82)10-2605-9213</span>
-
+    <p>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></p>
+    <p>Phone: +82)10-2605-9213</p>
     <br />
     <h4>
         ✨ Skills
@@ -26,9 +24,12 @@
         <br>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff" />&nbsp
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />&nbsp
-    </p>
-    <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limunosekai&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-    <br>
-    ![Limu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
+    </p>   
+    <br />
 </div>
+<div align="center">
+
+![Limu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limunosekai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
+    <img width="120px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
     <h3>
         Hi, I'm limu 😎<br />
         Front-End Developer.
@@ -9,6 +9,7 @@
     </h4>
     <p>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></p>
     <p>Phone: +82)10-2605-9213</p>
+    <p>Portfolio: <a href="https://limunosekai.github.io/spa-portfolio/">Go to Web</a></p>
     <h4>
         ✨ Skills
     </h4>

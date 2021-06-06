@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff" />&nbsp
         <br>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff" />&nbsp
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />&nbsp
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Nodejs&logoColor=ffffff" />&nbsp
     </p>   
     <br />
 </div>

@@ -14,7 +14,7 @@
 </p>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fobidlim&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
 
 </div>
 <!--

@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width: 250px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
+    <img style="width: 150px" src="https://res.cloudinary.com/limu/image/upload/v1622974602/icon/logo_hzhpms.png" />
     <h3>
         Hi, I'm limu 😎<br />
         Front-End Developer.
@@ -8,7 +8,7 @@
         ✨ How to reach me...
     </h4>
     <br />
-    <ul style="text-decoration: none">
+    <ul style="width: 240px; margin: 0 auto; text-align: left">
         <li>Mail: <a href="mailto:powerlsh0103@gmail.com">powerlsh0103@gmail.com</a></li>
         <li>Phone: +82)10-2605-9213</li>
     </ul>
@@ -29,22 +29,10 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />&nbsp
     </p>
     <br />
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limunosekai&layout=compact)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limunosekai&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+    
     <br />
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
+    ![Limu's GitHub stats](https://github-readme-stats.vercel.app/api?username=limunosekai&show_icons=true&count_private=true)
+
 
 </div>
-<!--
-**limunosekai/limunosekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- : ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
